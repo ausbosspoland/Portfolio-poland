@@ -1,0 +1,11 @@
+.example-class {
+    width: 250px;
+    height: auto;
+    border: 5px solid #669e66;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    background: tomato;
+}
