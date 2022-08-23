@@ -6,6 +6,18 @@
 
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: aliceblue;
-    background: tomato;
+    color: #ffffff;
+    background: #a1b3c1;
+    position: absolute;
+    
+}
+
+h3 {
+    display: inline-block;
+    font-size: 120%;
+    position: fixed;
+    bottom: 45%;
+    right: 230;
+    width: 400px;
+    color: #669e66;
 }
