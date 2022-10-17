@@ -16,6 +16,6 @@ My Portfolio webpage
 
 ## Credits
 
-Austin J Poland
-Github: https://github.com/ausbosspoland
-Email: austinjpoland311@gmail.com
+- Austin J Poland
+- Github: https://github.com/ausbosspoland
+- Email: austinjpoland311@gmail.com
