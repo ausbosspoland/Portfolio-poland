@@ -9,8 +9,10 @@ I built this to attach projects and showcase my work
 * CSS
 
 ## Preview
-```md
-    ![Cover image](assets/Screen Shot 2022-10-16 at 8.58.52 PM.png)
+My Portfolio webpage
+
+    ```md
+    ![Cover image](assets/PortfolioScreenshot.png)
     ```
 
 
