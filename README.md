@@ -1,21 +1,19 @@
 # Portfolio-poland
 
-This is a work in progress beginner portfolio
-I built this to eventually attach projects and showcase my work
-I’m trying to catch up and hopefully this comes together in the end of the bootcamp
-I’m just trying to submit something, will try and improve this later
+This portfolio is still in progress, I'm going to turn it into a react app in about a week here hopefully and polish it up as well.
+I built this to attach projects and showcase my work
 
 ### Built with
 
 * HTML
 * CSS
 
-## User Story
-'''
-As a user
-I Want to see the projects said individual has been working on
-SO THAT I am able to have a better understanding of their strengths and skills and languages they are proficient in
+## Preview
+```md
+    ![Cover image](assets/Screen Shot 2022-10-16 at 8.58.52 PM.png)
+    ```
 
-##Credits
+
+## Credits
 
 Austin J Poland
