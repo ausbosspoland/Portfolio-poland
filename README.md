@@ -11,9 +11,7 @@ I built this to attach projects and showcase my work
 ## Preview
 My Portfolio webpage
 
-```md
-![Cover image](assets/PortfolioScreenshot.png)
-```
+![Cover-image](/assets/PortfolioScreenshot.png) assets/PortfolioScreenshot.png
 
 
 ## Credits
